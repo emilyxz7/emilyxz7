@@ -17,7 +17,9 @@
 
 ###
 
-<h3 align="left">Sou estudante da Escola do Futuro, com atuação nas áreas de desenvolvimento web, cibersegurança e design UX/UI. Possuo interesse em tecnologia, inovação e criação de soluções digitais focadas em segurança, usabilidade e experiência do usuário.</h3>
+<h3 align="left">Meu nome é Emily, sou estudante da Escola do Futuro e apaixonada por tecnologia desde os 16 anos. Ao longo da minha trajetória, venho desenvolvendo conhecimentos e experiência nas áreas de desenvolvimento web, cibersegurança e design UX/UI, buscando sempre unir criatividade, funcionalidade e segurança em cada projeto.
+
+Tenho grande interesse por inovação e pela criação de soluções digitais que proporcionem uma experiência intuitiva, acessível e eficiente para os usuários. Além disso, estou constantemente em busca de aprendizado e evolução profissional, acompanhando tendências tecnológicas e aprimorando minhas habilidades para contribuir com projetos que gerem impacto positivo e inovação no meio digital.</h3>
 
 ###
 
